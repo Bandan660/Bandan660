@@ -26,3 +26,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bandan-hpe&show_icons=true&locale=en&layout=compact" alt="bandan-hpe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bandan-hpe&" alt="bandan-hpe" /></p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
