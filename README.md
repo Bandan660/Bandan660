@@ -45,7 +45,6 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bandan-Hpe&layout=compact&theme=default" alt=Bandan-Hpe />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bandan-Hpe&show_icons=true&locale=en&theme=" alt="Bandan-Hpe" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bandan-Hpe&theme=" alt="Bandan-Hpe" /></p>
 
