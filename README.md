@@ -1,58 +1,105 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Bandan Pradhan</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bandan660&label=Profile%20views&color=0e75b6&style=flat" alt="Bandan660" /> </p>
+<!-- GitHub Profile README | Repository: Bandan660/Bandan660 -->
 
-
-- 🌱 I’m currently learning **Generative  AI**
-- 💬 Ask me about **MERN Stack & Related Technoligies**
-- 📫 How to reach me **bandanpradhan456@gmail.com**
-
-
-<div> <a href="https://www.linkedin.com/in/bandan-pradhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Bandan660" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/bandan_pradhan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:bandanpradhan456@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bandan-pradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="bandan-pradhan" height="30" width="40" /></a><a href="https://fb.com/bandan.pradhan.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="bandan.pradhan.52" height="30" width="40" /></a><a href="https://instagram.com/bandan_pradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="bandan_pradhan" height="30" width="40" /></a></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/babeljs-icon.svg" alt="Babeljs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/appwriteio-icon.svg" alt="Appwrite" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/header_logo.svg" alt="React Native" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Static/nextjs-2.svg" alt="Nextjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/jestjsio-icon.svg" alt="Jestjsio" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bandan660&layout=compact&theme=default" alt=Bandan660 />
-
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bandan660&theme=" alt="Bandan660" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/Bandan660">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bandan660&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bandan660&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bandan660&theme=algolia" height="180em" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1D4ED8,100:06B6D4&height=220&section=header&text=Bandan%20Pradhan&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Full-Stack%20Engineer%20%7C%20Building%20Products%20That%20Ship&descAlignY=59&descSize=17" width="100%" alt="Bandan Pradhan - Full-Stack Engineer" />
+
+  <a href="https://readme-typing-svg.demolab.com/demo/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3300&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=720&lines=React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;From+idea+to+production%2C+end+to+end;Building+scalable%2C+user-focused+web+applications" alt="Building scalable web applications with React, Next.js, Node.js and TypeScript" />
+  </a>
+
+  <p>
+    <a href="https://github.com/Bandan660"><img src="https://img.shields.io/badge/GitHub-Bandan660-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/bandan-pradhan/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:bandanpradhan456@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Based%20in-Hyderabad%2C%20India-0F766E?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Hyderabad, India" />
+    <img src="https://img.shields.io/badge/Experience-4%2B%20Years-2563EB?style=flat-square" alt="4+ years of experience" />
+    <img src="https://img.shields.io/badge/Open%20to-Relocation-7C3AED?style=flat-square" alt="Open to relocation" />
+  </p>
+
 </div>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+👨‍💻 About Me
+I'm a Full-Stack Engineer with 4+ years of experience shipping production applications in healthcare, e-commerce, CRM, and SaaS. I work across the stack, from accessible React interfaces and performant Next.js experiences to secure Node.js APIs, database design, testing, and deployment.
+- 🚀 Product mindset: I enjoy owning features from initial concept through launch and iteration.
+- 🛠️ Frontend + backend: React, Next.js, TypeScript, Node.js, Express, and REST APIs.
+- 🧩 Real-world systems: Authentication, payments, role-based permissions, reporting, and browser extensions.
+- 📍 Hyderabad, India: Open to relocation and new engineering opportunities.
+🧰 Tech Stack
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,nodejs,express,postgres,mongodb,mysql,redis,aws,docker,githubactions,git,jest&perline=10" alt="React, Next.js, TypeScript, JavaScript, Redux, Tailwind, HTML, CSS, Node.js, Express, PostgreSQL, MongoDB, MySQL, Redis, AWS, Docker, GitHub Actions, Git and Jest" />
+
+</div>
+
+Focus	Technologies & Practices
+Frontend	React, Next.js, TypeScript, JavaScript, Redux, Tailwind CSS, SASS
+Backend	Node.js, Express.js, REST APIs, OAuth, JWT, RBAC
+Data	PostgreSQL, MongoDB, MySQL, Redis, schema design, query optimization
+Delivery & Quality	Docker, GitHub Actions, AWS S3, CI/CD, Jest, React Testing Library
+Web Engineering	SSR/SSG, Server Components, Chrome Extensions, accessibility, performance
+
+
+🚀 Featured Products
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📝 HireFresher</h3>
+      <p align="center"><a href="https://hirefresher.in/"><img src="https://img.shields.io/badge/Visit-Live%20Product-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit HireFresher" /></a></p>
+      <p>A resume-building and ATS-focused product designed to help job seekers prepare their applications. Built with end-to-end ownership of UI, APIs, authentication, testing, and deployment.</p>
+      <p><strong>Stack:</strong> React, Next.js, TypeScript, Node.js</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ BanApply</h3>
+      <p align="center"><a href="https://banapply.com/"><img src="https://img.shields.io/badge/Visit-Live%20Product-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit BanApply" /></a></p>
+      <p>A job-application workflow product with Chrome-extension features for profile autofill, resume attachments, reusable screening answers, and application tracking.</p>
+      <p><strong>Stack:</strong> React, Next.js, TypeScript, Node.js, Chrome Extensions</p>
+    </td>
+  </tr>
+</table>
+
+📈 Engineering Impact
+Impact	What I Delivered
+35% increase in review throughput	Built Twin ICU, unifying data ingestion, interpretation, and reporting at Beatly.ai.
+5× faster ECG reporting	Automated selected ECG-strip serialization, PDF generation, and retrievable report storage.
+50+ clinics supported	Enhanced Twin Flow with onboarding, device inventory, RBAC, and billing workflows.
+30% shorter release cycles	Standardized React components and REST API integrations and improved release pipelines.
+60% less manual spreadsheet work	Developed real-estate CRM workflows for plot inventory, client registration, and agent communication.
+
+
+💼 Experience Snapshot
+2026 - Present   Independent Full-Stack Engineer  | HireFresher & BanApply
+2024 - 2026      Software Engineer               | Beatly.ai
+2023 - 2024      Full-Stack Developer             | Sayana Worldverse Pvt Ltd
+2022 - 2023      Frontend Developer               | Tranquil CRM
+<details>
+  <summary><b>🔍 More about my engineering background</b></summary>
+  <br />
+
+- Healthcare: Patient workflows, study configuration, medical-device inventory, ECG reporting, data visualization, and role-based access control.
+- E-commerce: Multivendor purchasing, real-time inventory, admin dashboards, and Razorpay payment integration.
+- CRM: Agent communication with call, SMS, email, and WhatsApp integrations.
+- Education: Bachelor of Computer Applications (Computer Science), Roland Institute of Computer & Management Studies.
+</details>
+
+📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bandan660&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="Bandan's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bandan660&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Languages in Bandan's public GitHub repositories" />
+</div>
+
+GitHub cards are generated from public profile data and may not reflect work in private repositories.
+
+🤝 Let's Connect
+I enjoy collaborating on useful products, thoughtful user experiences, and reliable full-stack systems. Feel free to explore my work or get in touch.
+<div align="center">
+  <a href="https://www.linkedin.com/in/bandan-pradhan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:bandanpradhan456@gmail.com"><img src="https://img.shields.io/badge/Email-bandanpradhan456%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Bandan" /></a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1D4ED8,100:06B6D4&height=100&section=footer" width="100%" alt="Decorative wave footer" />
+</div>
