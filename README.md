@@ -4,11 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bandan660&label=Profile%20views&color=0e75b6&style=flat" alt="Bandan660" /> </p>
 
 
-- 🌱 I’m currently learning **React Native and Next JS**
+- 🌱 I’m currently learning **Generative  AI**
 - 💬 Ask me about **MERN Stack & Related Technoligies**
 - 📫 How to reach me **bandanpradhan456@gmail.com**
-- 👨‍💻 All of my projects are available at **https://bandan.dev/**
-- 📄 Know about my experiences **https://bandan.dev/assets/images/BANDAN_PRADHAN.pdf**
+
 
 <div> <a href="https://www.linkedin.com/in/bandan-pradhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Bandan660" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
