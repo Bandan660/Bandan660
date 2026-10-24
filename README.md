@@ -85,14 +85,25 @@ Impact	What I Delivered
 - Education: Bachelor of Computer Applications (Computer Science), Roland Institute of Computer & Management Studies.
 </details>
 
-📊 GitHub Activity
+📊 Live GitHub Stats & Commit Activity
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bandan660&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="Bandan's GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bandan660&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Languages in Bandan's public GitHub repositories" />
 </div>
 
-GitHub cards are generated from public profile data and may not reflect work in private repositories.
+<div align="center">
+  <a href="https://github.com/Bandan660?tab=overview">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bandan660&theme=react-dark&hide_border=true&area=true" width="100%" alt="Live GitHub contribution graph for Bandan Pradhan over the last 31 days" />
+  </a>
+</div>
 
+🕒 Latest Public Commits
+<!-- START_LATEST_COMMITS -->
+Your most recent public commits will appear here after the GitHub Action runs.
+<!-- END_LATEST_COMMITS -->
+
+
+<sub>↻ The graph and stats update through third-party services and may be cached. The latest-commits list is refreshed by a GitHub Action (normally hourly) from public repositories. Private and unmatched-author commits are not listed.</sub>
 🤝 Let's Connect
 I enjoy collaborating on useful products, thoughtful user experiences, and reliable full-stack systems. Feel free to explore my work or get in touch.
 <div align="center">
